@@ -1,4 +1,4 @@
-
+//run-> run congiguration
 public class CmdLineDemo {
 
 	public static void main(String[] args) {
